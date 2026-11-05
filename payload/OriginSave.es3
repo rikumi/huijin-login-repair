@@ -1,0 +1,184 @@
+{
+	"TeachGuide" : {
+		"__type" : "System.Collections.Generic.HashSet`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],System.Core",
+		"value" : [
+			
+		]
+	},
+	"UpLoadTime" : {
+		"__type" : "long",
+		"value" : 0
+	},
+	"version" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"500" : {
+		"__type" : "Ase.LevelSaveService+LevelData,Unity.Hotfix.Codes",
+		"value" : {
+			"LastRefreshTime" : 0,
+			"LevelId" : 500,
+			"DefaultActiveBornfire" : 50101,
+			"ActiveCaves" : [
+				
+			],
+			"NpcDatas" : {
+			},
+			"MapItemDatas" : {
+			},
+			"MonsterData" : {
+			},
+			"MonsterGroupData" : {
+			},
+			"NormalPlatformDatas" : {
+			},
+			"RockerControls" : {
+			},
+			"MechanismDatas" : {
+			},
+			"TriggerDatas" : {
+			},
+			"DefaultMapMaskBit" : 2
+		}
+	},
+	"400" : {
+		"__type" : "Ase.LevelSaveService+LevelData,Unity.Hotfix.Codes",
+		"value" : {
+			"LastRefreshTime" : 0,
+			"LevelId" : 400,
+			"DefaultActiveBornfire" : 40101,
+			"ActiveCaves" : [
+				
+			],
+			"NpcDatas" : {
+			},
+			"MapItemDatas" : {
+			},
+			"MonsterData" : {
+			},
+			"MonsterGroupData" : {
+			},
+			"NormalPlatformDatas" : {
+			},
+			"RockerControls" : {
+			},
+			"MechanismDatas" : {
+			},
+			"TriggerDatas" : {
+			},
+			"DefaultMapMaskBit" : 2
+		}
+	},
+	"300" : {
+		"__type" : "Ase.LevelSaveService+LevelData,Unity.Hotfix.Codes",
+		"value" : {
+			"LastRefreshTime" : 0,
+			"LevelId" : 300,
+			"DefaultActiveBornfire" : 30101,
+			"ActiveCaves" : [
+				
+			],
+			"NpcDatas" : {
+			},
+			"MapItemDatas" : {
+			},
+			"MonsterData" : {
+			},
+			"MonsterGroupData" : {
+			},
+			"NormalPlatformDatas" : {
+			},
+			"RockerControls" : {
+			},
+			"MechanismDatas" : {
+			},
+			"TriggerDatas" : {
+			},
+			"DefaultMapMaskBit" : 2
+		}
+	},
+	"200" : {
+		"__type" : "Ase.LevelSaveService+LevelData,Unity.Hotfix.Codes",
+		"value" : {
+			"LastRefreshTime" : 0,
+			"LevelId" : 200,
+			"DefaultActiveBornfire" : 20101,
+			"ActiveCaves" : [
+				
+			],
+			"NpcDatas" : {
+			},
+			"MapItemDatas" : {
+			},
+			"MonsterData" : {
+			},
+			"MonsterGroupData" : {
+			},
+			"NormalPlatformDatas" : {
+			},
+			"RockerControls" : {
+			},
+			"MechanismDatas" : {
+			},
+			"TriggerDatas" : {
+			},
+			"DefaultMapMaskBit" : 2
+		}
+	},
+	"100" : {
+		"__type" : "Ase.LevelSaveService+LevelData,Unity.Hotfix.Codes",
+		"value" : {
+			"LastRefreshTime" : 0,
+			"LevelId" : 100,
+			"DefaultActiveBornfire" : 10101,
+			"ActiveCaves" : [
+				
+			],
+			"NpcDatas" : {
+			},
+			"MapItemDatas" : {
+			},
+			"MonsterData" : {
+			},
+			"MonsterGroupData" : {
+			},
+			"NormalPlatformDatas" : {
+			},
+			"RockerControls" : {
+			},
+			"MechanismDatas" : {
+			},
+			"TriggerDatas" : {
+			},
+			"DefaultMapMaskBit" : 2
+		}
+	},
+	"10" : {
+		"__type" : "Ase.LevelSaveService+LevelData,Unity.Hotfix.Codes",
+		"value" : {
+			"LastRefreshTime" : 0,
+			"LevelId" : 10,
+			"DefaultActiveBornfire" : 1001,
+			"ActiveCaves" : [
+				
+			],
+			"NpcDatas" : {
+			},
+			"MapItemDatas" : {
+			},
+			"MonsterData" : {
+			},
+			"MonsterGroupData" : {
+			},
+			"NormalPlatformDatas" : {
+			},
+			"RockerControls" : {
+			},
+			"MechanismDatas" : {
+			},
+			"TriggerDatas" : {
+			},
+			"DefaultMapMaskBit" : 1
+		}
+	}
+}

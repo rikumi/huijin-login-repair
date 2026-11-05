@@ -1,0 +1,5 @@
+*.md text eol=lf
+*.bat text eol=crlf
+*.bundle binary
+*.bin binary
+*.es3 binary

@@ -1,0 +1,5 @@
+backups/
+*.log
+adb.exe
+AdbWinApi.dll
+AdbWinUsbApi.dll
